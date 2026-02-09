@@ -128,5 +128,3 @@ Script akan mendeteksi dan melewati file tersebut otomatis.
 Copyright © ARI (2024)
 Digunakan untuk keperluan pribadi & edukasi.
 
-```
-
