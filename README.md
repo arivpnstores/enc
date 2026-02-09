@@ -1,9 +1,3 @@
-Siap 👍
-Ini aku kirim **README.md versi bersih & rapi** yang **100% bisa langsung disalin (copy–paste)** tanpa tambahan apa pun.
-
----
-
-````md
 # ENC — Shell Script Encrypter (bzip2 self-extracting)
 
 `enc` adalah shell script untuk **meng-encrypt (membungkus)** dan **decrypt** file script (biasanya `.sh`) menggunakan metode **self-extracting wrapper** berbasis `bzip2`.
